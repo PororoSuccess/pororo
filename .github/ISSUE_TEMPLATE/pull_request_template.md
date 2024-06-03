@@ -18,7 +18,6 @@
 ## 🔍상세 작업 내용
 
 - [ ] todo1
-- [ ] todo2
 
 ## 🌸to Reviewer
 
